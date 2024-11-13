@@ -11,7 +11,7 @@ using namespace std;
 void menu(){
     cout<<"\t--------------------------welcom back-----------------------------------\n";
     
-    cout<<"\t|\t1.START      2.ABOUT US       3.HELP       4.SETING            |\n";
+    cout<<"\t|\t1.START      2.ABOUT Me       3.HELP       4.SETING            |\n";
     
     cout<<"\t------------------------------------------------------------------------\n";   
     
@@ -21,7 +21,7 @@ void menu(){
 void ABOUTUS(){
 	
 	cout<<"\t------------------------------------------------------------------------\n";
-	cout<<"\t                          about us\n";
+	cout<<"\t                          about ME\n";
 	cout<<"        name : Fereshteh Tabeei\n" 
 	    <<"        Email : fe.tabeei@gmail.com, \n"
 	    <<"        Teacher : Dr. Amintoosi\n"
