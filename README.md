@@ -22,7 +22,7 @@ void ABOUTUS(){
 	
 	cout<<"\t------------------------------------------------------------------------\n";
 	cout<<"\t                          about us\n";
-	cout<<"        Team Members : Fereshteh Tabeei\n" 
+	cout<<"        name : Fereshteh Tabeei\n" 
 	    <<"        Email : fe.tabeei@gmail.com, \n"
 	    <<"        Teacher : Dr. Amintoosi\n"
 	    <<"        Advanced programming class\n";
